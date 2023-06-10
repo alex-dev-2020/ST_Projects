@@ -9,3 +9,8 @@ VAR
     xAlarm: BOOL;
      
 END_VAR
+
+
+xAlarm := iValue > 50;
+
+END_PROGRAM
